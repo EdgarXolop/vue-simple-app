@@ -1,4 +1,4 @@
-# mas-project
+# simple-project
 
 > A tutorial  Vue.js project
 
